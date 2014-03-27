@@ -1,0 +1,13 @@
+PODS:
+  - BenchmarkTestCase (1.0)
+  - JavaScriptBridge (0.3.1)
+
+DEPENDENCIES:
+  - BenchmarkTestCase
+  - JavaScriptBridge
+
+SPEC CHECKSUMS:
+  BenchmarkTestCase: 3a8fe05a669b9cc91be46883c9efe57cd811e3be
+  JavaScriptBridge: 49c65b6a6ffa7903e40d15083d9c74c515bd998f
+
+COCOAPODS: 0.29.0
