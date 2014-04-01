@@ -9,6 +9,8 @@
 #import <XCTest/XCTest.h>
 #import <JavaScriptCore/JavaScriptCore.h>
 
+#import "JSHasher.h"
+
 @interface iJSPlaygroundTests : XCTestCase
 
 @end
@@ -38,6 +40,22 @@
     
     [context evaluateScript:@"console.log('message!');"];
     
+}
+
+- (void)testBrowserify
+{
+    JSContext *context = [JSHasher context];
+    
+    JSValue *ping = context[@"ping"];
+    JSValue *pingResult = [ping callWithArguments:@[]];
+    NSLog(@"Ping: %@", [pingResult toString]);
+    
+    
+    //bl_gen_token(token, tokenId, accessKey, secretKey, apiVersion)
+    JSValue *bl_gen_token = context[@"bl_gen_token"];
+    NSArray *args = @[@"token", @"tokenId", @"accessKey", @"secretKey", @"1", @"1234567890"];
+    JSValue *res = [bl_gen_token callWithArguments:args];
+    NSLog(@"bl_gen_token: %@", [res toString]);
 }
 
 @end

@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		55D4410418E9CD3E006756C2 /* HmacBenchmarkTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4410318E9CD3E006756C2 /* HmacBenchmarkTestCase.m */; };
+		55D4410718E9CD9A006756C2 /* OCHasher.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4410618E9CD9A006756C2 /* OCHasher.m */; };
+		55D4410818E9CD9A006756C2 /* OCHasher.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4410618E9CD9A006756C2 /* OCHasher.m */; };
+		55D4410B18E9CDAC006756C2 /* JSHasher.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4410A18E9CDAC006756C2 /* JSHasher.m */; };
+		55D4410C18E9CDAC006756C2 /* JSHasher.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4410A18E9CDAC006756C2 /* JSHasher.m */; };
+		55D4411518EAA627006756C2 /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 55D4411418EAA627006756C2 /* package.json */; };
+		55D4411618EAA627006756C2 /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = 55D4411418EAA627006756C2 /* package.json */; };
+		55D4411918EAA697006756C2 /* main.js in Sources */ = {isa = PBXBuildFile; fileRef = 55D4411718EAA697006756C2 /* main.js */; };
+		55D4411B18EAA697006756C2 /* bundle.js in Sources */ = {isa = PBXBuildFile; fileRef = 55D4411818EAA697006756C2 /* bundle.js */; };
+		55D4411E18EAA917006756C2 /* main.js in Resources */ = {isa = PBXBuildFile; fileRef = 55D4411718EAA697006756C2 /* main.js */; };
+		55D4411F18EAA919006756C2 /* bundle.js in Resources */ = {isa = PBXBuildFile; fileRef = 55D4411818EAA697006756C2 /* bundle.js */; };
+		55D4412118EAC729006756C2 /* Str2DataBenchmarkTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4412018EAC729006756C2 /* Str2DataBenchmarkTestCase.m */; };
+		55D4412318EACDAE006756C2 /* HmacHasherTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4412218EACDAE006756C2 /* HmacHasherTest.m */; };
 		55F1240A18E2BEEF007AB5F8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55F1240918E2BEEF007AB5F8 /* Foundation.framework */; };
 		55F1240C18E2BEEF007AB5F8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55F1240B18E2BEEF007AB5F8 /* CoreGraphics.framework */; };
 		55F1240E18E2BEEF007AB5F8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 55F1240D18E2BEEF007AB5F8 /* UIKit.framework */; };
@@ -26,6 +39,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		55D4410318E9CD3E006756C2 /* HmacBenchmarkTestCase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HmacBenchmarkTestCase.m; sourceTree = "<group>"; };
+		55D4410518E9CD9A006756C2 /* OCHasher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCHasher.h; sourceTree = "<group>"; };
+		55D4410618E9CD9A006756C2 /* OCHasher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCHasher.m; sourceTree = "<group>"; };
+		55D4410918E9CDAC006756C2 /* JSHasher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSHasher.h; sourceTree = "<group>"; };
+		55D4410A18E9CDAC006756C2 /* JSHasher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSHasher.m; sourceTree = "<group>"; };
+		55D4411418EAA627006756C2 /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		55D4411718EAA697006756C2 /* main.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = main.js; sourceTree = "<group>"; };
+		55D4411818EAA697006756C2 /* bundle.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = bundle.js; sourceTree = "<group>"; };
+		55D4412018EAC729006756C2 /* Str2DataBenchmarkTestCase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Str2DataBenchmarkTestCase.m; sourceTree = "<group>"; };
+		55D4412218EACDAE006756C2 /* HmacHasherTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HmacHasherTest.m; sourceTree = "<group>"; };
 		55F1240618E2BEEF007AB5F8 /* iJSPlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iJSPlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55F1240918E2BEEF007AB5F8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		55F1240B18E2BEEF007AB5F8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -77,6 +100,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		55D4410D18EAA5AB006756C2 /* js */ = {
+			isa = PBXGroup;
+			children = (
+				55D4411718EAA697006756C2 /* main.js */,
+				55D4411818EAA697006756C2 /* bundle.js */,
+				55D4411418EAA627006756C2 /* package.json */,
+			);
+			path = js;
+			sourceTree = SOURCE_ROOT;
+		};
 		55F123FD18E2BEEF007AB5F8 = {
 			isa = PBXGroup;
 			children = (
@@ -117,6 +150,11 @@
 			children = (
 				55F1241818E2BEEF007AB5F8 /* AppDelegate.h */,
 				55F1241918E2BEF0007AB5F8 /* AppDelegate.m */,
+				55D4410518E9CD9A006756C2 /* OCHasher.h */,
+				55D4410618E9CD9A006756C2 /* OCHasher.m */,
+				55D4410918E9CDAC006756C2 /* JSHasher.h */,
+				55D4410A18E9CDAC006756C2 /* JSHasher.m */,
+				55D4410D18EAA5AB006756C2 /* js */,
 				55F1241B18E2BEF0007AB5F8 /* Images.xcassets */,
 				55F1241018E2BEEF007AB5F8 /* Supporting Files */,
 			);
@@ -138,7 +176,10 @@
 			isa = PBXGroup;
 			children = (
 				55F1242E18E2BEF0007AB5F8 /* iJSPlaygroundTests.m */,
+				55D4412218EACDAE006756C2 /* HmacHasherTest.m */,
 				55F1243818E2C22F007AB5F8 /* JSBenchmarkTestCase.m */,
+				55D4410318E9CD3E006756C2 /* HmacBenchmarkTestCase.m */,
+				55D4412018EAC729006756C2 /* Str2DataBenchmarkTestCase.m */,
 				55F1242918E2BEF0007AB5F8 /* Supporting Files */,
 			);
 			path = iJSPlaygroundTests;
@@ -228,6 +269,7 @@
 			files = (
 				55F1241418E2BEEF007AB5F8 /* InfoPlist.strings in Resources */,
 				55F1241C18E2BEF0007AB5F8 /* Images.xcassets in Resources */,
+				55D4411518EAA627006756C2 /* package.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,7 +277,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55D4411618EAA627006756C2 /* package.json in Resources */,
 				55F1242D18E2BEF0007AB5F8 /* InfoPlist.strings in Resources */,
+				55D4411F18EAA919006756C2 /* bundle.js in Resources */,
+				55D4411E18EAA917006756C2 /* main.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,8 +354,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55D4410718E9CD9A006756C2 /* OCHasher.m in Sources */,
+				55D4410B18E9CDAC006756C2 /* JSHasher.m in Sources */,
+				55D4411918EAA697006756C2 /* main.js in Sources */,
 				55F1241A18E2BEF0007AB5F8 /* AppDelegate.m in Sources */,
 				55F1241618E2BEEF007AB5F8 /* main.m in Sources */,
+				55D4411B18EAA697006756C2 /* bundle.js in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -318,7 +367,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55D4412118EAC729006756C2 /* Str2DataBenchmarkTestCase.m in Sources */,
+				55D4410418E9CD3E006756C2 /* HmacBenchmarkTestCase.m in Sources */,
 				55F1243918E2C22F007AB5F8 /* JSBenchmarkTestCase.m in Sources */,
+				55D4412318EACDAE006756C2 /* HmacHasherTest.m in Sources */,
+				55D4410C18E9CDAC006756C2 /* JSHasher.m in Sources */,
+				55D4410818E9CD9A006756C2 /* OCHasher.m in Sources */,
 				55F1242F18E2BEF0007AB5F8 /* iJSPlaygroundTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

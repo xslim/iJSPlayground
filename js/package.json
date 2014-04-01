@@ -1,0 +1,8 @@
+{
+  "name": "requirebin-sketch",
+  "version": "1.0.0",
+  "dependencies": {
+    "crypto-js": "3.1.2-3",
+    "base64-js-codec": "1.0.0"
+  }
+}
