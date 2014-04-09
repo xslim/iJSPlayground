@@ -9,6 +9,16 @@
 
 @implementation BLCProduct
 
+@synthesize name,extraInfo,allergens,categoryId,detail,dictionaryValue,identifier,ingredients,mediaUrl,model,nutritions,onSale,shelf,unitQuantity;
+
+- (instancetype)init
+{
+    self = [super init];
+    if (self) {
+        self.detail = @"no details";
+    }
+    return self;
+}
 
 + (NSDictionary *)JSONKeyPathsByPropertyKey {
     return @{

@@ -1,6 +1,7 @@
 #import <Mantle.h>
+#import <JavaScriptCore/JavaScriptCore.h>
 
-@interface BLCProduct : MTLModel <MTLJSONSerializing>
+@protocol BLCProductExports <JSExport>
 
 @property (nonatomic, strong) NSString* categoryId;
 @property (nonatomic, strong) NSString* detail;
@@ -20,5 +21,12 @@
 @property (nonatomic, strong) NSArray *nutritions;
 @property (nonatomic, strong) NSArray *allergens;
 
++ (NSDictionary *)JSONKeyPathsByPropertyKey;
 
++ (instancetype)new;
+
+@end
+
+
+@interface BLCProduct : MTLModel <BLCProductExports, MTLJSONSerializing>
 @end
