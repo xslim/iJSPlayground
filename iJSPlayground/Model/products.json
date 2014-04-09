@@ -1,0 +1,2130 @@
+
+[{
+    "id": 17873,
+    "name": "Amox mix/wok sauce zoetzuur",
+    "productUrl": "/Amox-mix-wok-sauce-zoetzuur150-Gram1",
+    "model": "Amoy",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU14116_primary_161601.png",
+    "defaultSku": {
+        "retailPrice": 1.34,
+        "salePrice": 1.34
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 0
+}, {
+    "id": 17876,
+    "name": "Amoy mix/wok sauce oester knoflook",
+    "productUrl": "/Amoy-mix-wok-sauce-oester-knoflook150-Gram1",
+    "model": "Amoy",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU14119_primary_161612.png",
+    "defaultSku": {
+        "retailPrice": 1.34,
+        "salePrice": 1.34
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 1
+}, {
+    "id": 17874,
+    "name": "Amoy mix/wok sauce zwarte bonen",
+    "productUrl": "/Amoy-mix-wok-sauce-zwarte-bonen150-Gram1",
+    "model": "Amoy",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU14117_primary_161605.png",
+    "defaultSku": {
+        "retailPrice": 1.34,
+        "salePrice": 1.34
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 2
+}, {
+    "id": 17875,
+    "name": "Amoy mix/wok sauce zwarte peper",
+    "productUrl": "/Amoy-mix-wok-sauce-zwarte-peper150-Gram1",
+    "model": "Amoy",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU14118_primary_161609.png",
+    "defaultSku": {
+        "retailPrice": 1.34,
+        "salePrice": 1.34
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 3
+}, {
+    "id": 17948,
+    "name": "Chin Chin Indonesische kroepoek",
+    "productUrl": "/Chin-Chin-Indonesische-kroepoek135-Gram",
+    "model": "Chin chin",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU20137_primary_133902.png",
+    "defaultSku": {
+        "retailPrice": 0.55,
+        "salePrice": 0.55
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 4
+}, {
+    "id": 19011,
+    "name": "Conimex Chinese kruidige woksaus",
+    "productUrl": "/Conimex-Chinese-kruidige-woksaus175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU20691_primary_134854.png",
+    "defaultSku": {
+        "retailPrice": 1.59,
+        "salePrice": 1.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 5
+}, {
+    "id": 19012,
+    "name": "Conimex Thaise zoetzure woksaus",
+    "productUrl": "/Conimex-Thaise-zoetzure-woksaus175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU20692_primary_134857.png",
+    "defaultSku": {
+        "retailPrice": 1.59,
+        "salePrice": 1.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 6
+}, {
+    "id": 18989,
+    "name": "Conimex atjar tjampoer",
+    "productUrl": "/Conimex-atjar-tjampoer680-Gram",
+    "model": "Conimex",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU21262_primary_136357.png",
+    "defaultSku": {
+        "retailPrice": 1.29,
+        "salePrice": 1.29
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 7
+}, {
+    "id": 18983,
+    "name": "Conimex babi pangangsaus",
+    "productUrl": "/Conimex-babi-pangangsaus43-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse ingredi√´nten",
+    "mediaUrl": "/asset/SKU22454_primary_161620.png",
+    "defaultSku": {
+        "retailPrice": 0.85,
+        "salePrice": 0.85
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 8
+}, {
+    "id": 18987,
+    "name": "Conimex bahmi kruidenmix",
+    "productUrl": "/Conimex-bahmi-kruidenmix22-Gram",
+    "model": "Conimex",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU20466_primary_134414.png",
+    "defaultSku": {
+        "retailPrice": 0.54,
+        "salePrice": 0.54
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 9
+}, {
+    "id": 18968,
+    "name": "Conimex bahmi speciaal kip ketjap",
+    "productUrl": "/Conimex-bahmi-speciaal-kip-ketjap267-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse maaltijden",
+    "mediaUrl": "/asset/SKU22184_primary_138437.png",
+    "defaultSku": {
+        "retailPrice": 2.09,
+        "salePrice": 2.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 10
+}, {
+    "id": 18958,
+    "name": "Conimex bali kroepoek",
+    "productUrl": "/Conimex-bali-kroepoek75-Gram",
+    "model": "Conimex",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU22121_primary_138207.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 11
+}, {
+    "id": 19010,
+    "name": "Conimex boemboe voor ajam paniki",
+    "productUrl": "/Conimex-boemboe-voor-ajam-paniki95-Gram",
+    "model": "Conimex",
+    "shelf": "Boemboe",
+    "mediaUrl": "/asset/SKU22110_primary_138165.png",
+    "defaultSku": {
+        "retailPrice": 1.25,
+        "salePrice": 1.25
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 12
+}, {
+    "id": 18991,
+    "name": "Conimex boemboe voor ajam smoor",
+    "productUrl": "/Conimex-boemboe-voor-ajam-smoor95-Gram",
+    "model": "Conimex",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU22102_primary_138129.png",
+    "defaultSku": {
+        "retailPrice": 1.25,
+        "salePrice": 1.25
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 13
+}, {
+    "id": 18992,
+    "name": "Conimex boemboe voor babi ketjap",
+    "productUrl": "/Conimex-boemboe-voor-babi-ketjap95-Gram",
+    "model": "Conimex",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU22104_primary_138137.png",
+    "defaultSku": {
+        "retailPrice": 1.25,
+        "salePrice": 1.25
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 14
+}, {
+    "id": 19008,
+    "name": "Conimex boemboe voor bahmi goreng",
+    "productUrl": "/Conimex-boemboe-voor-bahmi-goreng95-Gram",
+    "model": "Conimex",
+    "shelf": "Boemboe",
+    "mediaUrl": "/asset/SKU22105_primary_138141.png",
+    "defaultSku": {
+        "retailPrice": 1.05,
+        "salePrice": 1.05
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 15
+}, {
+    "id": 19009,
+    "name": "Conimex boemboe voor nasi goreng",
+    "productUrl": "/Conimex-boemboe-voor-nasi-goreng95-Gram",
+    "model": "Conimex",
+    "shelf": "Boemboe",
+    "mediaUrl": "/asset/SKU22106_primary_138147.png",
+    "defaultSku": {
+        "retailPrice": 1.05,
+        "salePrice": 1.05
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 16
+}, {
+    "id": 18993,
+    "name": "Conimex boemboe voor rendang vlees",
+    "productUrl": "/Conimex-boemboe-voor-rendang-vlees95-Gram",
+    "model": "Conimex",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU22107_primary_138151.png",
+    "defaultSku": {
+        "retailPrice": 1.25,
+        "salePrice": 1.25
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 17
+}, {
+    "id": 19007,
+    "name": "Conimex boemboe voor sajoer boontjes",
+    "productUrl": "/Conimex-boemboe-voor-sajoer-boontjes95-Gram",
+    "model": "Conimex",
+    "shelf": "Boemboe",
+    "mediaUrl": "/asset/SKU22108_primary_138155.png",
+    "defaultSku": {
+        "retailPrice": 1.05,
+        "salePrice": 1.05
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 18
+}, {
+    "id": 18986,
+    "name": "Conimex boemboe voor sajoer groenten",
+    "productUrl": "/Conimex-boemboe-voor-sajoer-groenten95-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse ingredi√´nten",
+    "mediaUrl": "/asset/SKU22109_primary_138161.png",
+    "defaultSku": {
+        "retailPrice": 1.05,
+        "salePrice": 1.05
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 19
+}, {
+    "id": 18959,
+    "name": "Conimex cassave kroepoek",
+    "productUrl": "/Conimex-cassave-kroepoek75-Gram",
+    "model": "Conimex",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU22122_primary_138210.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 20
+}, {
+    "id": 18965,
+    "name": "Conimex foo yong hai",
+    "productUrl": "/Conimex-foo-yong-hai78-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse maaltijden",
+    "mediaUrl": "/asset/SKU20698_primary_134874.png",
+    "defaultSku": {
+        "retailPrice": 0.89,
+        "salePrice": 0.89
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 21
+}, {
+    "id": 18990,
+    "name": "Conimex gembersiroop",
+    "productUrl": "/Conimex-gembersiroop175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU21258_primary_136346.png",
+    "defaultSku": {
+        "retailPrice": 1.69,
+        "salePrice": 1.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 22
+}, {
+    "id": 19019,
+    "name": "Conimex groene curry",
+    "productUrl": "/Conimex-groene-curry95-Gram",
+    "model": "Conimex",
+    "shelf": "Thaise ingredi√´nten",
+    "mediaUrl": "/asset/SKU22103_primary_138133.png",
+    "defaultSku": {
+        "retailPrice": 1.25,
+        "salePrice": 1.25
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 23
+}, {
+    "id": 18960,
+    "name": "Conimex java kroepoek",
+    "productUrl": "/Conimex-java-kroepoek75-Gram",
+    "model": "Conimex",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU22123_primary_138213.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 24
+}, {
+    "id": 18982,
+    "name": "Conimex kerriesaus",
+    "productUrl": "/Conimex-kerriesaus",
+    "model": "Conimex",
+    "shelf": "Oosterse ingredi√´nten",
+    "mediaUrl": "/asset/SKU22441_primary_138905.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 25
+}, {
+    "id": 19000,
+    "name": "Conimex ketjap asin",
+    "productUrl": "/Conimex-ketjap-asin250-Milliliter",
+    "model": "Conimex",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU21261_primary_136354.png",
+    "defaultSku": {
+        "retailPrice": 1.02,
+        "salePrice": 1.02
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 26
+}, {
+    "id": 18998,
+    "name": "Conimex ketjap manis",
+    "productUrl": "/Conimex-ketjap-manis500-Milliliter",
+    "model": "Conimex",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU22115_primary_138186.png",
+    "defaultSku": {
+        "retailPrice": 1.59,
+        "salePrice": 1.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 27
+}, {
+    "id": 18994,
+    "name": "Conimex ketjap manis",
+    "productUrl": "/Conimex-ketjap-manis250-Milliliter",
+    "model": "Conimex",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU22116_primary_138189.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 28
+}, {
+    "id": 18999,
+    "name": "Conimex ketjap marinade",
+    "productUrl": "/Conimex-ketjap-marinade375-Milliliter",
+    "model": "Conimex",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU21259_primary_136350.png",
+    "defaultSku": {
+        "retailPrice": 1.75,
+        "salePrice": 1.75
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 29
+}, {
+    "id": 18962,
+    "name": "Conimex kroepoek naturel",
+    "productUrl": "/Conimex-kroepoek-naturel73-Gram",
+    "model": "Conimex",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU19968_primary_133571.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 30
+}, {
+    "id": 18963,
+    "name": "Conimex kroepoek naturel",
+    "productUrl": "/Conimex-kroepoek-naturel80-Gram",
+    "model": "Conimex",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU20437_primary_156347.png",
+    "defaultSku": {
+        "retailPrice": 1.09,
+        "salePrice": 1.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 31
+}, {
+    "id": 18981,
+    "name": "Conimex kruidenmix nasi speciaal",
+    "productUrl": "/Conimex-kruidenmix-nasi-speciaal41-Gram",
+    "model": "Conimex",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU20481_primary_134454.png",
+    "defaultSku": {
+        "retailPrice": 0.88,
+        "salePrice": 0.88
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 32
+}, {
+    "id": 18980,
+    "name": "Conimex kruidenmix voor bahmi speciaal",
+    "productUrl": "/Conimex-kruidenmix-voor-bahmi-speciaal39-Gram",
+    "model": "Conimex",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU20480_primary_134448.png",
+    "defaultSku": {
+        "retailPrice": 0.89,
+        "salePrice": 0.89
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 33
+}, {
+    "id": 18976,
+    "name": "Conimex kruidenmix voor nasi",
+    "productUrl": "/Conimex-kruidenmix-voor-nasi19-Gram",
+    "model": "Conimex",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU20467_primary_134416.png",
+    "defaultSku": {
+        "retailPrice": 0.55,
+        "salePrice": 0.55
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 34
+}, {
+    "id": 19020,
+    "name": "Conimex marinademix sat√©",
+    "productUrl": "/Conimex-marinademix-sat%C3%A938-Gram",
+    "model": "Conimex",
+    "shelf": "Marinademix",
+    "mediaUrl": "/asset/SKU20450_primary_158734.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 35
+}, {
+    "id": 18996,
+    "name": "Conimex mie",
+    "productUrl": "/Conimex-mie500-Gram",
+    "model": "Conimex",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU20817_primary_135222.png",
+    "defaultSku": {
+        "retailPrice": 0.93,
+        "salePrice": 0.93
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 36
+}, {
+    "id": 18964,
+    "name": "Conimex mihoen speciaal",
+    "productUrl": "/Conimex-mihoen-speciaal43-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse maaltijden",
+    "mediaUrl": "/asset/SKU20697_primary_134869.png",
+    "defaultSku": {
+        "retailPrice": 0.83,
+        "salePrice": 0.83
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 37
+}, {
+    "id": 19022,
+    "name": "Conimex mix voor babi ketjap",
+    "productUrl": "/Conimex-mix-voor-babi-ketjap92-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse maaltijdpakket",
+    "mediaUrl": "/asset/SKU20699_primary_134879.png",
+    "defaultSku": {
+        "retailPrice": 0.99,
+        "salePrice": 0.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 38
+}, {
+    "id": 18979,
+    "name": "Conimex mix voor babi pangang",
+    "productUrl": "/Conimex-mix-voor-babi-pangang91-Gram",
+    "model": "Conimex",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU20479_primary_134441.png",
+    "defaultSku": {
+        "retailPrice": 0.85,
+        "salePrice": 0.85
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 39
+}, {
+    "id": 18977,
+    "name": "Conimex mix voor bahmi goreng",
+    "productUrl": "/Conimex-mix-voor-bahmi-goreng48-Gram",
+    "model": "Conimex",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU20477_primary_134435.png",
+    "defaultSku": {
+        "retailPrice": 0.75,
+        "salePrice": 0.75
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 40
+}, {
+    "id": 18966,
+    "name": "Conimex mix voor kip kerrie madras",
+    "productUrl": "/Conimex-mix-voor-kip-kerrie-madras64-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse maaltijden",
+    "mediaUrl": "/asset/SKU20700_primary_134884.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 41
+}, {
+    "id": 18978,
+    "name": "Conimex mix voor nasi goreng",
+    "productUrl": "/Conimex-mix-voor-nasi-goreng39-Gram",
+    "model": "Conimex",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU20478_primary_134438.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 42
+}, {
+    "id": 19021,
+    "name": "Conimex nasi goreng kipsat√©",
+    "productUrl": "/Conimex-nasi-goreng-kipsat%C3%A9340-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse maaltijdpakket",
+    "mediaUrl": "/asset/SKU22183_primary_138431.png",
+    "defaultSku": {
+        "retailPrice": 2.09,
+        "salePrice": 2.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 43
+}, {
+    "id": 18969,
+    "name": "Conimex nasi koening",
+    "productUrl": "/Conimex-nasi-koening48-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse maaltijden",
+    "mediaUrl": "/asset/SKU20482_primary_134461.png",
+    "defaultSku": {
+        "retailPrice": 0.99,
+        "salePrice": 0.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 44
+}, {
+    "id": 19005,
+    "name": "Conimex oriental noodles groene curry",
+    "productUrl": "/Conimex-oriental-noodles-groene-curry65-Gram",
+    "model": "Conimex",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU20001_primary_133675.png",
+    "defaultSku": {
+        "retailPrice": 1.49,
+        "salePrice": 1.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 45
+}, {
+    "id": 19002,
+    "name": "Conimex oriental noodles hot & spicy",
+    "productUrl": "/Conimex-oriental-noodles-hot-%26-spicy73-Gram",
+    "model": "Conimex",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU19998_primary_133666.png",
+    "defaultSku": {
+        "retailPrice": 0.79,
+        "salePrice": 0.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 46
+}, {
+    "id": 19001,
+    "name": "Conimex oriental noodles met Oosterse groenten",
+    "productUrl": "/Conimex-oriental-noodles-met-Oosterse-groenten72-Gram",
+    "model": "Conimex",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU19997_primary_133663.png",
+    "defaultSku": {
+        "retailPrice": 0.79,
+        "salePrice": 0.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 47
+}, {
+    "id": 19006,
+    "name": "Conimex oriental noodles soto ajam",
+    "productUrl": "/Conimex-oriental-noodles-soto-ajam65-Gram",
+    "model": "Conimex",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU20002_primary_133678.png",
+    "defaultSku": {
+        "retailPrice": 1.49,
+        "salePrice": 1.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 48
+}, {
+    "id": 19003,
+    "name": "Conimex oriental noodles teriyaki",
+    "productUrl": "/Conimex-oriental-noodles-teriyaki78-Gram",
+    "model": "Conimex",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU19999_primary_133669.png",
+    "defaultSku": {
+        "retailPrice": 0.79,
+        "salePrice": 0.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 49
+}, {
+    "id": 19004,
+    "name": "Conimex oriental noodles thom kha kai",
+    "productUrl": "/Conimex-oriental-noodles-thom-kha-kai65-Gram",
+    "model": "Conimex",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU20000_primary_133672.png",
+    "defaultSku": {
+        "retailPrice": 1.49,
+        "salePrice": 1.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 50
+}, {
+    "id": 18971,
+    "name": "Conimex sambal badjak",
+    "productUrl": "/Conimex-sambal-badjak200-Gram",
+    "model": "Conimex",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU22429_primary_138865.png",
+    "defaultSku": {
+        "retailPrice": 1.29,
+        "salePrice": 1.29
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 51
+}, {
+    "id": 18972,
+    "name": "Conimex sambal brandal",
+    "productUrl": "/Conimex-sambal-brandal200-Gram",
+    "model": "Conimex",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU22430_primary_138869.png",
+    "defaultSku": {
+        "retailPrice": 1.29,
+        "salePrice": 1.29
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 52
+}, {
+    "id": 18973,
+    "name": "Conimex sambal manis",
+    "productUrl": "/Conimex-sambal-manis200-Gram",
+    "model": "Conimex",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU22431_primary_138873.png",
+    "defaultSku": {
+        "retailPrice": 1.29,
+        "salePrice": 1.29
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 53
+}, {
+    "id": 18974,
+    "name": "Conimex sambal oelek",
+    "productUrl": "/Conimex-sambal-oelek50-Gram",
+    "model": "Conimex",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU21265_primary_136364.png",
+    "defaultSku": {
+        "retailPrice": 0.52,
+        "salePrice": 0.52
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 54
+}, {
+    "id": 18975,
+    "name": "Conimex sambal oelek",
+    "productUrl": "/Conimex-sambal-oelek200-Gram",
+    "model": "Conimex",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU21266_primary_136367.png",
+    "defaultSku": {
+        "retailPrice": 1.09,
+        "salePrice": 1.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 55
+}, {
+    "id": 18961,
+    "name": "Conimex sweet chili kroepoek",
+    "productUrl": "/Conimex-sweet-chili-kroepoek75-Gram",
+    "model": "Conimex",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU22124_primary_138216.png",
+    "defaultSku": {
+        "retailPrice": 1.04,
+        "salePrice": 1.04
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 56
+}, {
+    "id": 19013,
+    "name": "Conimex teriyaki honing - zoete woksaus",
+    "productUrl": "/Conimex-teriyaki-honing---zoete-woksaus175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU20420_primary_134326.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 57
+}, {
+    "id": 18967,
+    "name": "Conimex tjap tjoi",
+    "productUrl": "/Conimex-tjap-tjoi53-Gram",
+    "model": "Conimex",
+    "shelf": "Oosterse maaltijden",
+    "mediaUrl": "/asset/SKU20701_primary_134889.png",
+    "defaultSku": {
+        "retailPrice": 0.85,
+        "salePrice": 0.85
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 58
+}, {
+    "id": 18988,
+    "name": "Conimex ve-tsin",
+    "productUrl": "/Conimex-ve-tsin35-Gram",
+    "model": "Conimex",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU21271_primary_136379.png",
+    "defaultSku": {
+        "retailPrice": 0.75,
+        "salePrice": 0.75
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 59
+}, {
+    "id": 19015,
+    "name": "Conimex wok knoflook/koriander",
+    "productUrl": "/Conimex-wok-knoflook-koriander175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU20422_primary_134332.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 60
+}, {
+    "id": 19016,
+    "name": "Conimex wok sweet chili",
+    "productUrl": "/Conimex-wok-sweet-chili175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU20423_primary_134336.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 61
+}, {
+    "id": 19017,
+    "name": "Conimex zoet pittige woksaus",
+    "productUrl": "/Conimex-zoet-pittige-woksaus175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU20424_primary_134339.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 62
+}, {
+    "id": 19018,
+    "name": "Conimex zoete woksaus",
+    "productUrl": "/Conimex-zoete-woksaus175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU20425_primary_134342.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 63
+}, {
+    "id": 19014,
+    "name": "Conimex zoetzure woksaus",
+    "productUrl": "/Conimex-zoetzure-woksaus175-Milliliter",
+    "model": "Conimex",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU20421_primary_134329.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 64
+}, {
+    "id": 20895,
+    "name": "Go Tan chilli sauce",
+    "productUrl": "/Go-Tan-chilli-sauce500-Milliliter",
+    "model": "Go tan    ",
+    "shelf": "Chillisaus",
+    "mediaUrl": "/asset/SKU18786_primary_131530.png",
+    "defaultSku": {
+        "retailPrice": 1.99,
+        "salePrice": 1.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 65
+}, {
+    "id": 20900,
+    "name": "Go Tan eiernoodles",
+    "productUrl": "/Go-Tan-eiernoodles250-Gram",
+    "model": "Go tan    ",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU18814_primary_131594.png",
+    "defaultSku": {
+        "retailPrice": 1.53,
+        "salePrice": 1.53
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 66
+}, {
+    "id": 20901,
+    "name": "Go Tan emping naturel melindjo notenchips",
+    "productUrl": "/Go-Tan-emping-naturel-melindjo-notenchips90-Gram",
+    "model": "Go tan    ",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU18805_primary_131571.png",
+    "defaultSku": {
+        "retailPrice": 1.55,
+        "salePrice": 1.55
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 67
+}, {
+    "id": 20902,
+    "name": "Go Tan gebakken uitjes",
+    "productUrl": "/Go-Tan-gebakken-uitjes100-Gram",
+    "model": "Go tan    ",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU18800_primary_131548.png",
+    "defaultSku": {
+        "retailPrice": 0.85,
+        "salePrice": 0.85
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 68
+}, {
+    "id": 20899,
+    "name": "Go Tan ketjap gember",
+    "productUrl": "/Go-Tan-ketjap-gember300-Milliliter",
+    "model": "Go tan    ",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU18789_primary_158733.png",
+    "defaultSku": {
+        "retailPrice": 1.99,
+        "salePrice": 1.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 69
+}, {
+    "id": 20898,
+    "name": "Go Tan ketjap rode peper",
+    "productUrl": "/Go-Tan-ketjap-rode-peper300-Milliliter",
+    "model": "Go tan    ",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU18788_primary_158729.png",
+    "defaultSku": {
+        "retailPrice": 2.09,
+        "salePrice": 2.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 70
+}, {
+    "id": 20897,
+    "name": "Go Tan ketjap zoet",
+    "productUrl": "/Go-Tan-ketjap-zoet300-Milliliter",
+    "model": "Go tan    ",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU18787_primary_131534.png",
+    "defaultSku": {
+        "retailPrice": 2.09,
+        "salePrice": 2.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 71
+}, {
+    "id": 20904,
+    "name": "Go Tan knoflook puree",
+    "productUrl": "/Go-Tan-knoflook-puree100-Gram",
+    "model": "Go tan    ",
+    "shelf": "Gemalen knoflook",
+    "mediaUrl": "/asset/SKU18815_primary_131598.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 72
+}, {
+    "id": 17689,
+    "name": "Go Tan kokosmelk creamy",
+    "productUrl": "/Go-Tan-kokosmelk-creamy400-Milliliter",
+    "model": "Go tan    ",
+    "shelf": "Kokosmelk",
+    "mediaUrl": "/asset/SKU18813_primary_131587.png",
+    "defaultSku": {
+        "retailPrice": 1.05,
+        "salePrice": 1.05
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 73
+}, {
+    "id": 20894,
+    "name": "Go Tan mix voor babi pangang",
+    "productUrl": "/Go-Tan-mix-voor-babi-pangang150-Gram",
+    "model": "Go tan    ",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU18812_primary_131586.png",
+    "defaultSku": {
+        "retailPrice": 0.99,
+        "salePrice": 0.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 74
+}, {
+    "id": 20896,
+    "name": "Go Tan oestersaus",
+    "productUrl": "/Go-Tan-oestersaus250-Milliliter",
+    "model": "Go tan    ",
+    "shelf": "Oestersaus",
+    "mediaUrl": "/asset/SKU18803_primary_131559.png",
+    "defaultSku": {
+        "retailPrice": 1.99,
+        "salePrice": 1.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 75
+}, {
+    "id": 20903,
+    "name": "Go Tan seroendeng geroosterde gekruide kokos met pinda's",
+    "productUrl": "/Go-Tan-seroendeng-geroosterde-gekruide-kokos-met-pinda%27s150-Gram",
+    "model": "Go tan    ",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU18801_primary_131551.png",
+    "defaultSku": {
+        "retailPrice": 1.35,
+        "salePrice": 1.35
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 76
+}, {
+    "id": 20893,
+    "name": "Go Tan soya sauce",
+    "productUrl": "/Go-Tan-soya-sauce250-Milliliter",
+    "model": "Go tan    ",
+    "shelf": "Sojasaus",
+    "mediaUrl": "/asset/SKU18802_primary_131554.png",
+    "defaultSku": {
+        "retailPrice": 1.89,
+        "salePrice": 1.89
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 77
+}, {
+    "id": 20892,
+    "name": "Go Tan wokstarter",
+    "productUrl": "/Go-Tan-wokstarter90-Gram",
+    "model": "Go tan    ",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU18816_primary_131601.png",
+    "defaultSku": {
+        "retailPrice": 1.79,
+        "salePrice": 1.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 78
+}, {
+    "id": 21081,
+    "name": "Honig familiegerecht Japanse noodles",
+    "productUrl": "/Honig-familiegerecht-Japanse-noodles326-Gram",
+    "model": "Honig",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU21356_primary_136481.png",
+    "defaultSku": {
+        "retailPrice": 2.35,
+        "salePrice": 2.35
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 79
+}, {
+    "id": 17813,
+    "name": "Honig familiegerecht Mexicaanse wraps",
+    "productUrl": "/Honig-familiegerecht-Mexicaanse-wraps305-Gram",
+    "model": "Honig",
+    "shelf": "Maaltijdpakket",
+    "mediaUrl": "/asset/SKU21411_primary_136732.png",
+    "defaultSku": {
+        "retailPrice": 2.35,
+        "salePrice": 2.35
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 80
+}, {
+    "id": 21082,
+    "name": "Honig familiegerecht oosterse wraps",
+    "productUrl": "/Honig-familiegerecht-oosterse-wraps355-Gram",
+    "model": "Honig",
+    "shelf": "Wraps",
+    "mediaUrl": "/asset/SKU21410_primary_136731.png",
+    "defaultSku": {
+        "retailPrice": 2.35,
+        "salePrice": 2.35
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 81
+}, {
+    "id": 21062,
+    "name": "Honig mix voor kip hawa√Ø",
+    "productUrl": "/Honig-mix-voor-kip-hawa%C3%AF80-Gram",
+    "model": "Honig",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU21348_primary_136461.png",
+    "defaultSku": {
+        "retailPrice": 1.09,
+        "salePrice": 1.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 82
+}, {
+    "id": 21065,
+    "name": "Honig mix voor kip kerrie",
+    "productUrl": "/Honig-mix-voor-kip-kerrie67-Gram",
+    "model": "Honig",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU21389_primary_136661.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 83
+}, {
+    "id": 21064,
+    "name": "Honig mix voor nasi speciaal",
+    "productUrl": "/Honig-mix-voor-nasi-speciaal44-Gram",
+    "model": "Honig",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU21386_primary_136646.png",
+    "defaultSku": {
+        "retailPrice": 0.94,
+        "salePrice": 0.94
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 84
+}, {
+    "id": 21063,
+    "name": "Honig mix voor roerbakmie",
+    "productUrl": "/Honig-mix-voor-roerbakmie60-Gram",
+    "model": "Honig",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU21362_primary_136501.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 85
+}, {
+    "id": 17943,
+    "name": "Improba sat√© marinade mix Indonesie",
+    "productUrl": "/Improba-sat%C3%A9-marinade-mix-Indonesie38-Gram",
+    "model": "Inproba   ",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU18611_primary_158718.png",
+    "defaultSku": {
+        "retailPrice": 0.49,
+        "salePrice": 0.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 86
+}, {
+    "id": 21125,
+    "name": "Inproba Thaise groene curry",
+    "productUrl": "/Inproba-Thaise-groene-curry100-Gram",
+    "model": "Inproba   ",
+    "shelf": "Thaise ingredi√´nten",
+    "mediaUrl": "/asset/SKU18603_primary_131141.png",
+    "defaultSku": {
+        "retailPrice": 1.09,
+        "salePrice": 1.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 87
+}, {
+    "id": 17941,
+    "name": "Inproba atjar tjampoer",
+    "productUrl": "/Inproba-atjar-tjampoer530-Gram",
+    "model": "Inproba   ",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU18615_primary_131177.png",
+    "defaultSku": {
+        "retailPrice": 0.53,
+        "salePrice": 0.53
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 88
+}, {
+    "id": 17946,
+    "name": "Inproba bamboo sateh sticks",
+    "productUrl": "/Inproba-bamboo-sateh-sticks95-Stuks",
+    "model": "Inproba   ",
+    "shelf": "Sate stokjes",
+    "mediaUrl": "/asset/SKU18597_primary_131127.png",
+    "defaultSku": {
+        "retailPrice": 0.49,
+        "salePrice": 0.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 89
+}, {
+    "id": 17942,
+    "name": "Inproba bami goreng",
+    "productUrl": "/Inproba-bami-goreng45-Gram",
+    "model": "Inproba   ",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU18617_primary_131189.png",
+    "defaultSku": {
+        "retailPrice": 0.23,
+        "salePrice": 0.23
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 90
+}, {
+    "id": 17940,
+    "name": "Inproba gehakte knoflook oriental",
+    "productUrl": "/Inproba-gehakte-knoflook-oriental200-Gram",
+    "model": "Inproba   ",
+    "shelf": "Gemalen knoflook",
+    "mediaUrl": "/asset/SKU18620_primary_131196.png",
+    "defaultSku": {
+        "retailPrice": 1.35,
+        "salePrice": 1.35
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 91
+}, {
+    "id": 21117,
+    "name": "Inproba ketjap manis",
+    "productUrl": "/Inproba-ketjap-manis250-Milliliter",
+    "model": "Inproba   ",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU18605_primary_131147.png",
+    "defaultSku": {
+        "retailPrice": 0.54,
+        "salePrice": 0.54
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 92
+}, {
+    "id": 17944,
+    "name": "Inproba ketjap manis Indonesia",
+    "productUrl": "/Inproba-ketjap-manis-Indonesia1-Liter",
+    "model": "Inproba   ",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU18596_primary_131124.png",
+    "defaultSku": {
+        "retailPrice": 2.09,
+        "salePrice": 2.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 93
+}, {
+    "id": 21118,
+    "name": "Inproba kokosmelk",
+    "productUrl": "/Inproba-kokosmelk250-Milliliter",
+    "model": "Inproba   ",
+    "shelf": "Kokosmelk",
+    "mediaUrl": "/asset/SKU18606_primary_158717.png",
+    "defaultSku": {
+        "retailPrice": 0.99,
+        "salePrice": 0.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 94
+}, {
+    "id": 21124,
+    "name": "Inproba mango chutney",
+    "productUrl": "/Inproba-mango-chutney-220-Gram",
+    "model": "Inproba   ",
+    "shelf": "Indiase ingredi√´nten",
+    "mediaUrl": "/asset/SKU18599_primary_131133.png",
+    "defaultSku": {
+        "retailPrice": 1.29,
+        "salePrice": 1.29
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 95
+}, {
+    "id": 21122,
+    "name": "Inproba mix voor nasi goreng",
+    "productUrl": "/Inproba-mix-voor-nasi-goreng50-Gram",
+    "model": "Inproba   ",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU18616_primary_131188.png",
+    "defaultSku": {
+        "retailPrice": 0.23,
+        "salePrice": 0.23
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 96
+}, {
+    "id": 21126,
+    "name": "Inproba mix voor pindasaus Indonesie",
+    "productUrl": "/Inproba-mix-voor-pindasaus-Indonesie68-Gram",
+    "model": "Inproba   ",
+    "shelf": "Sat√©saus",
+    "mediaUrl": "/asset/SKU18612_primary_131169.png",
+    "defaultSku": {
+        "retailPrice": 0.59,
+        "salePrice": 0.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 97
+}, {
+    "id": 21123,
+    "name": "Inproba sambal oelek",
+    "productUrl": "/Inproba-sambal-oelek100-Gram",
+    "model": "Inproba   ",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU18600_primary_131137.png",
+    "defaultSku": {
+        "retailPrice": 0.45,
+        "salePrice": 0.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 98
+}, {
+    "id": 17937,
+    "name": "Inproba sambal oelek Indonesia",
+    "productUrl": "/Inproba-sambal-oelek-Indonesia200-Gram",
+    "model": "Inproba   ",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU18614_primary_131174.png",
+    "defaultSku": {
+        "retailPrice": 0.65,
+        "salePrice": 0.65
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 99
+}, {
+    "id": 21119,
+    "name": "Inproba seroendeng",
+    "productUrl": "/Inproba-seroendeng150-Gram",
+    "model": "Inproba   ",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU18604_primary_131145.png",
+    "defaultSku": {
+        "retailPrice": 1.09,
+        "salePrice": 1.09
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 100
+}, {
+    "id": 17938,
+    "name": "Inproba sweet & sour sauce Chinees",
+    "productUrl": "/Inproba-sweet-%26-sour-sauce-Chinees500-Milliliter",
+    "model": "Inproba   ",
+    "shelf": "Oosterse ingredi√´nten",
+    "mediaUrl": "/asset/SKU18609_primary_131160.png",
+    "defaultSku": {
+        "retailPrice": 1.39,
+        "salePrice": 1.39
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 101
+}, {
+    "id": 19589,
+    "name": "Kikkoman sojasaus",
+    "productUrl": "/Kikkoman-sojasaus150-Milliliter",
+    "model": "Kikkoman",
+    "shelf": "Sojasaus",
+    "mediaUrl": "/asset/SKU21549_primary_158737.png",
+    "defaultSku": {
+        "retailPrice": 2.69,
+        "salePrice": 2.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 102
+}, {
+    "id": 19590,
+    "name": "Kikkoman soya sauce minder zout",
+    "productUrl": "/Kikkoman-soya-sauce-minder-zout150-Milliliter",
+    "model": "Kikkoman",
+    "shelf": "Sojasaus",
+    "mediaUrl": "/asset/SKU21550_primary_158740.png",
+    "defaultSku": {
+        "retailPrice": 2.95,
+        "salePrice": 2.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 103
+}, {
+    "id": 18836,
+    "name": "Knorr Chinese beef Shanghai",
+    "productUrl": "/Knorr-Chinese-beef-Shanghai239-Gram",
+    "model": "Knorr     ",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU22140_primary_138277.png",
+    "defaultSku": {
+        "retailPrice": 2.49,
+        "salePrice": 2.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 104
+}, {
+    "id": 18873,
+    "name": "Knorr chickem tonight ajam bali paprika",
+    "productUrl": "/Knorr-chickem-tonight-ajam-bali-paprika515-Gram",
+    "model": "Knorr     ",
+    "shelf": "Maaltijdsauzen",
+    "mediaUrl": "/asset/SKU20419_primary_134323.png",
+    "defaultSku": {
+        "retailPrice": 1.75,
+        "salePrice": 1.75
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 105
+}, {
+    "id": 22528,
+    "name": "Knorr mix voor bami",
+    "productUrl": "/Knorr-mix-voor-bami-146-Gram",
+    "model": "Knorr     ",
+    "shelf": "Maaltijdmix",
+    "mediaUrl": "/asset/SKU22134_primary_138249.png",
+    "defaultSku": {
+        "retailPrice": 1.69,
+        "salePrice": 1.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 106
+}, {
+    "id": 22525,
+    "name": "Knorr mix voor nasi",
+    "productUrl": "/Knorr-mix-voor-nasi154-Gram",
+    "model": "Knorr     ",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU22131_primary_138236.png",
+    "defaultSku": {
+        "retailPrice": 1.69,
+        "salePrice": 1.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 107
+}, {
+    "id": 18820,
+    "name": "Knorr wereldgerechten Chinese kantonese kip",
+    "productUrl": "/Knorr-wereldgerechten-Chinese-kantonese-kip251-Gram",
+    "model": "Klop klop ",
+    "shelf": "Maaltijdpakket",
+    "mediaUrl": "/asset/SKU22149_primary_138324.png",
+    "defaultSku": {
+        "retailPrice": 2.89,
+        "salePrice": 2.89
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 108
+}, {
+    "id": 18835,
+    "name": "Knorr wereldgerechten Indiase kip madras",
+    "productUrl": "/Knorr-wereldgerechten-Indiase-kip-madras321-Gram",
+    "model": "Knorr     ",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU20815_primary_135210.png",
+    "defaultSku": {
+        "retailPrice": 2.49,
+        "salePrice": 2.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 109
+}, {
+    "id": 18837,
+    "name": "Knorr wereldgerechten Indiase kip tandoori",
+    "productUrl": "/Knorr-wereldgerechten-Indiase-kip-tandoori297-Gram",
+    "model": "Knorr     ",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU22137_primary_138260.png",
+    "defaultSku": {
+        "retailPrice": 2.49,
+        "salePrice": 2.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 110
+}, {
+    "id": 18838,
+    "name": "Knorr wereldgerechten Thaise kip siam",
+    "productUrl": "/Knorr-wereldgerechten-Thaise-kip-siam300-Gram",
+    "model": "Knorr     ",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU22138_primary_138266.png",
+    "defaultSku": {
+        "retailPrice": 2.49,
+        "salePrice": 2.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 111
+}, {
+    "id": 21189,
+    "name": "Knorr wereldgerechten specials hoisin kip",
+    "productUrl": "/Knorr-wereldgerechten-specials-hoisin-kip291-Gram",
+    "model": "Knorr     ",
+    "shelf": "Oosterse maaltijdpakket",
+    "mediaUrl": "/asset/SKU19980_primary_133616.png",
+    "defaultSku": {
+        "retailPrice": 2.99,
+        "salePrice": 2.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 112
+}, {
+    "id": 21191,
+    "name": "Knorr wereldgerechten specials sesam kip",
+    "productUrl": "/Knorr-wereldgerechten-specials-sesam-kip288-Gram",
+    "model": "Knorr     ",
+    "shelf": "Oosterse maaltijdpakket",
+    "mediaUrl": "/asset/SKU20395_primary_134281.png",
+    "defaultSku": {
+        "retailPrice": 2.99,
+        "salePrice": 2.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 113
+}, {
+    "id": 21190,
+    "name": "Knorr wereldgerechten specials tandoori tilapiafilet",
+    "productUrl": "/Knorr-wereldgerechten-specials-tandoori-tilapiafilet231-Gram",
+    "model": "Knorr     ",
+    "shelf": "Oosterse maaltijdpakket",
+    "mediaUrl": "/asset/SKU19981_primary_133620.png",
+    "defaultSku": {
+        "retailPrice": 2.99,
+        "salePrice": 2.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 114
+}, {
+    "id": 21192,
+    "name": "Knorr wereldgerechten specials tempura kip",
+    "productUrl": "/Knorr-wereldgerechten-specials-tempura-kip357-Gram",
+    "model": "Knorr     ",
+    "shelf": "Oosterse maaltijdpakket",
+    "mediaUrl": "/asset/SKU20487_primary_134481.png",
+    "defaultSku": {
+        "retailPrice": 2.99,
+        "salePrice": 2.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 115
+}, {
+    "id": 21207,
+    "name": "Koningsvogel sambal badjak",
+    "productUrl": "/Koningsvogel-sambal-badjak375-Gram",
+    "model": "Koningsvogel",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU16126_primary_125958.png",
+    "defaultSku": {
+        "retailPrice": 2.49,
+        "salePrice": 2.49
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 116
+}, {
+    "id": 19183,
+    "name": "Koningsvogel sambal badjak extra heet",
+    "productUrl": "/Koningsvogel-sambal-badjak-extra-heet200-Gram1",
+    "model": "Koningsvogel",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU16131_primary_125965.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 117
+}, {
+    "id": 21208,
+    "name": "Koningsvogel sambal brandal",
+    "productUrl": "/Koningsvogel-sambal-brandal200-Gram",
+    "model": "Koningsvogel",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU16127_primary_125961.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 118
+}, {
+    "id": 21209,
+    "name": "Koningsvogel sambal manis",
+    "productUrl": "/Koningsvogel-sambal-manis200-Gram",
+    "model": "Koningsvogel",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU16128_primary_125964.png",
+    "defaultSku": {
+        "retailPrice": 1.45,
+        "salePrice": 1.45
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 119
+}, {
+    "id": 19288,
+    "name": "Maggi roerbaknoedels kip-kerrie met groente",
+    "productUrl": "/Maggi-roerbaknoedels-kip-kerrie-met-groente185-Gram1",
+    "model": "Maggi     ",
+    "shelf": "Noedels",
+    "mediaUrl": "/asset/SKU15613_primary_124959.png",
+    "defaultSku": {
+        "retailPrice": 1.69,
+        "salePrice": 1.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 120
+}, {
+    "id": 19932,
+    "name": "Markant bali kroepoek",
+    "productUrl": "/Markant-bali-kroepoek60-Gram",
+    "model": "Markant",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU18070_primary_129923.png",
+    "defaultSku": {
+        "retailPrice": 0.59,
+        "salePrice": 0.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 121
+}, {
+    "id": 20132,
+    "name": "Markant boemboe voor sajoer boontjes",
+    "productUrl": "/Markant-boemboe-voor-sajoer-boontjes100-Gram",
+    "model": "Markant",
+    "shelf": "Boemboe",
+    "mediaUrl": "/asset/SKU17835_primary_129210.png",
+    "defaultSku": {
+        "retailPrice": 0.95,
+        "salePrice": 0.95
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 122
+}, {
+    "id": 19931,
+    "name": "Markant cassave kroepoek",
+    "productUrl": "/Markant-cassave-kroepoek60-Gram",
+    "model": "Markant",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU18069_primary_129920.png",
+    "defaultSku": {
+        "retailPrice": 0.59,
+        "salePrice": 0.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 123
+}, {
+    "id": 19945,
+    "name": "Markant gebakken uitjes",
+    "productUrl": "/Markant-gebakken-uitjes100-Gram",
+    "model": "Markant",
+    "shelf": "Indonesische ingredi√´nten",
+    "mediaUrl": "/asset/SKU18018_primary_129754.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 124
+}, {
+    "id": 19929,
+    "name": "Markant java kroepoek",
+    "productUrl": "/Markant-java-kroepoek60-Gram",
+    "model": "Markant",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU18149_primary_130198.png",
+    "defaultSku": {
+        "retailPrice": 0.59,
+        "salePrice": 0.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 125
+}, {
+    "id": 20001,
+    "name": "Markant ketjap manis",
+    "productUrl": "/Markant-ketjap-manis250-Milliliter",
+    "model": "Markant",
+    "shelf": "Ketjap",
+    "mediaUrl": "/asset/SKU17858_primary_129263.png",
+    "defaultSku": {
+        "retailPrice": 0.79,
+        "salePrice": 0.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 126
+}, {
+    "id": 19887,
+    "name": "Markant kip madras",
+    "productUrl": "/Markant-kip-madras324-Gram",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU17679_primary_128733.png",
+    "defaultSku": {
+        "retailPrice": 1.79,
+        "salePrice": 1.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 127
+}, {
+    "id": 19889,
+    "name": "Markant kip siam",
+    "productUrl": "/Markant-kip-siam",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU17682_primary_128745.png",
+    "defaultSku": {
+        "retailPrice": 1.79,
+        "salePrice": 1.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 128
+}, {
+    "id": 19888,
+    "name": "Markant kip tandoori",
+    "productUrl": "/Markant-kip-tandoori292-Gram",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU17681_primary_128739.png",
+    "defaultSku": {
+        "retailPrice": 1.79,
+        "salePrice": 1.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 129
+}, {
+    "id": 19880,
+    "name": "Markant mix voor babi ketjap",
+    "productUrl": "/Markant-mix-voor-babi-ketjap89-Gram",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU18047_primary_129853.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 130
+}, {
+    "id": 19881,
+    "name": "Markant mix voor babi pangang",
+    "productUrl": "/Markant-mix-voor-babi-pangang91-Gram",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU18048_primary_129855.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 131
+}, {
+    "id": 19886,
+    "name": "Markant mix voor bami goreng",
+    "productUrl": "/Markant-mix-voor-bami-goreng",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU17495_primary_128234.png",
+    "defaultSku": {
+        "retailPrice": 0.66,
+        "salePrice": 0.66
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 132
+}, {
+    "id": 19883,
+    "name": "Markant mix voor bami speciaal",
+    "productUrl": "/Markant-mix-voor-bami-speciaal52-Gram",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU17830_primary_129180.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 133
+}, {
+    "id": 19885,
+    "name": "Markant mix voor nasi goreng",
+    "productUrl": "/Markant-mix-voor-nasi-goreng50-Gram",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU17494_primary_128231.png",
+    "defaultSku": {
+        "retailPrice": 0.66,
+        "salePrice": 0.66
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 134
+}, {
+    "id": 19884,
+    "name": "Markant mix voor nasi speciaal",
+    "productUrl": "/Markant-mix-voor-nasi-speciaal66-Gram",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU17831_primary_129182.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 135
+}, {
+    "id": 19882,
+    "name": "Markant mix voor roerbakmie",
+    "productUrl": "/Markant-mix-voor-roerbakmie55-Gram",
+    "model": "Markant",
+    "shelf": "Groenten- en kruidenmixen",
+    "mediaUrl": "/asset/SKU17893_primary_129386.png",
+    "defaultSku": {
+        "retailPrice": 0.66,
+        "salePrice": 0.66
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 136
+}, {
+    "id": 19933,
+    "name": "Markant naturel kroepoek",
+    "productUrl": "/Markant-naturel-kroepoek60-Gram",
+    "model": "Markant",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU17827_primary_129169.png",
+    "defaultSku": {
+        "retailPrice": 0.59,
+        "salePrice": 0.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 137
+}, {
+    "id": 19934,
+    "name": "Markant naturel kroepoek lang",
+    "productUrl": "/Markant-naturel-kroepoek-lang60-Gram",
+    "model": "Markant",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU17828_primary_129174.png",
+    "defaultSku": {
+        "retailPrice": 0.69,
+        "salePrice": 0.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 138
+}, {
+    "id": 19891,
+    "name": "Markant sambal oelek",
+    "productUrl": "/Markant-sambal-oelek200-Gram",
+    "model": "Markant",
+    "shelf": "Sambal",
+    "mediaUrl": "/asset/SKU17859_primary_129266.png",
+    "defaultSku": {
+        "retailPrice": 0.79,
+        "salePrice": 0.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 139
+}, {
+    "id": 19930,
+    "name": "Markant sweet chili",
+    "productUrl": "/Markant-sweet-chili60-Gram",
+    "model": "Markant",
+    "shelf": "Kroepoek",
+    "mediaUrl": "/asset/SKU18150_primary_130203.png",
+    "defaultSku": {
+        "retailPrice": 0.59,
+        "salePrice": 0.59
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 140
+}, {
+    "id": 17631,
+    "name": "Patak's korma Indiase currysaus mild",
+    "productUrl": "/Patak%27s-korma-Indiase-currysaus-mild400-Milliliter1",
+    "model": "Patak's  ",
+    "shelf": "Maaltijdsauzen",
+    "mediaUrl": "/asset/SKU15200_primary_123757.png",
+    "defaultSku": {
+        "retailPrice": 1.79,
+        "salePrice": 1.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 141
+}, {
+    "id": 17630,
+    "name": "Patak's tikka masala",
+    "productUrl": "/Patak%27s-tikka-masala400-Milliliter1",
+    "model": "Patak's  ",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU15199_primary_123756.png",
+    "defaultSku": {
+        "retailPrice": 1.79,
+        "salePrice": 1.79
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 142
+}, {
+    "id": 17629,
+    "name": "Patak'schutney sweet mango chutney",
+    "productUrl": "/Patak%27schutney-sweet-mango-chutney340-Gram1",
+    "model": "Patak's  ",
+    "shelf": "Woksauzen",
+    "mediaUrl": "/asset/SKU15198_primary_123755.png",
+    "defaultSku": {
+        "retailPrice": 1.75,
+        "salePrice": 1.75
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 143
+}, {
+    "id": 17713,
+    "name": "Saitaku bamboo rolling mat",
+    "productUrl": "/Saitaku-bamboo-rolling-mat60-Gram1",
+    "model": "Saitaku   ",
+    "shelf": "Sushi benodigheden",
+    "mediaUrl": "/asset/SKU14467_primary_122016.png",
+    "defaultSku": {
+        "retailPrice": 2.15,
+        "salePrice": 2.15
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 144
+}, {
+    "id": 17718,
+    "name": "Saitaku sushi ginger",
+    "productUrl": "/Saitaku-sushi-ginger190-Gram1",
+    "model": "Saitaku   ",
+    "shelf": "Sushi benodigheden",
+    "mediaUrl": "/asset/SKU14473_primary_122041.png",
+    "defaultSku": {
+        "retailPrice": 2.99,
+        "salePrice": 2.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 145
+}, {
+    "id": 17714,
+    "name": "Saitaku sushi kit",
+    "productUrl": "/Saitaku-sushi-kit361-Gram1",
+    "model": "Saitaku   ",
+    "shelf": "Sushi benodigheden",
+    "mediaUrl": "/asset/SKU14468_primary_122020.png",
+    "defaultSku": {
+        "retailPrice": 6.99,
+        "salePrice": 6.99
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 146
+}, {
+    "id": 17715,
+    "name": "Saitaku sushi nori",
+    "productUrl": "/Saitaku-sushi-nori5-bladen2",
+    "model": "Saitaku   ",
+    "shelf": "Sushi benodigheden",
+    "mediaUrl": "/asset/SKU14469_primary_161616.png",
+    "defaultSku": {
+        "retailPrice": 2.34,
+        "salePrice": 2.34
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 147
+}, {
+    "id": 17716,
+    "name": "Saitaku sushi rice",
+    "productUrl": "/Saitaku-sushi-rice500-Gram1",
+    "model": "Saitaku   ",
+    "shelf": "Sushi benodigheden",
+    "mediaUrl": "/asset/SKU14470_primary_122030.png",
+    "defaultSku": {
+        "retailPrice": 2.65,
+        "salePrice": 2.65
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 148
+}, {
+    "id": 17717,
+    "name": "Saitaku teriyaki sauce",
+    "productUrl": "/Saitaku-teriyaki-sauce150-ml2",
+    "model": "Saitaku   ",
+    "shelf": "Sushi benodigheden",
+    "mediaUrl": "/asset/SKU14471_primary_122034.png",
+    "defaultSku": {
+        "retailPrice": 2.75,
+        "salePrice": 2.75
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 149
+}, {
+    "id": 21752,
+    "name": "Saitaku wasabi pasta",
+    "productUrl": "/Saitaku-wasabi-pasta43-Gram",
+    "model": "Saitaku   ",
+    "shelf": "Sushi",
+    "mediaUrl": "/asset/SKU14472_primary_122040.png",
+    "defaultSku": {
+        "retailPrice": 2.69,
+        "salePrice": 2.69
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 150
+}, {
+    "id": 17435,
+    "name": "Tabasco red pepper sauce",
+    "productUrl": "/Tabasco-red-pepper-sauce57-Milliliter",
+    "model": "Tabasco   ",
+    "shelf": "Maaltijdsauzen",
+    "mediaUrl": "/asset/SKU13026_primary_119344.png",
+    "defaultSku": {
+        "retailPrice": 2.35,
+        "salePrice": 2.35
+    },
+    "onSale": false,
+    "score": 1.0,
+    "relevancy": 151
+}]

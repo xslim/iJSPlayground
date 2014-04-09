@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		554DAF5518F5313900E26C63 /* BLCObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 554DAF5018F5313900E26C63 /* BLCObject.m */; };
+		554DAF5618F5313900E26C63 /* BLCObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 554DAF5018F5313900E26C63 /* BLCObject.m */; };
+		554DAF5718F5313900E26C63 /* BLCProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = 554DAF5218F5313900E26C63 /* BLCProduct.m */; };
+		554DAF5818F5313900E26C63 /* BLCProduct.m in Sources */ = {isa = PBXBuildFile; fileRef = 554DAF5218F5313900E26C63 /* BLCProduct.m */; };
+		554DAF5918F5313900E26C63 /* product.json in Resources */ = {isa = PBXBuildFile; fileRef = 554DAF5318F5313900E26C63 /* product.json */; };
+		554DAF5A18F5313900E26C63 /* product.json in Resources */ = {isa = PBXBuildFile; fileRef = 554DAF5318F5313900E26C63 /* product.json */; };
+		554DAF5B18F5313900E26C63 /* products.json in Resources */ = {isa = PBXBuildFile; fileRef = 554DAF5418F5313900E26C63 /* products.json */; };
+		554DAF5C18F5313900E26C63 /* products.json in Resources */ = {isa = PBXBuildFile; fileRef = 554DAF5418F5313900E26C63 /* products.json */; };
+		554DAF5E18F5324000E26C63 /* JSONParsingBenchmarkTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 554DAF5D18F5324000E26C63 /* JSONParsingBenchmarkTestCase.m */; };
 		55D4410418E9CD3E006756C2 /* HmacBenchmarkTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4410318E9CD3E006756C2 /* HmacBenchmarkTestCase.m */; };
 		55D4410718E9CD9A006756C2 /* OCHasher.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4410618E9CD9A006756C2 /* OCHasher.m */; };
 		55D4410818E9CD9A006756C2 /* OCHasher.m in Sources */ = {isa = PBXBuildFile; fileRef = 55D4410618E9CD9A006756C2 /* OCHasher.m */; };
@@ -39,6 +48,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		554DAF4F18F5313900E26C63 /* BLCObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BLCObject.h; sourceTree = "<group>"; };
+		554DAF5018F5313900E26C63 /* BLCObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BLCObject.m; sourceTree = "<group>"; };
+		554DAF5118F5313900E26C63 /* BLCProduct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BLCProduct.h; sourceTree = "<group>"; };
+		554DAF5218F5313900E26C63 /* BLCProduct.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BLCProduct.m; sourceTree = "<group>"; };
+		554DAF5318F5313900E26C63 /* product.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = product.json; sourceTree = "<group>"; };
+		554DAF5418F5313900E26C63 /* products.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = products.json; sourceTree = "<group>"; };
+		554DAF5D18F5324000E26C63 /* JSONParsingBenchmarkTestCase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONParsingBenchmarkTestCase.m; sourceTree = "<group>"; };
 		55D4410318E9CD3E006756C2 /* HmacBenchmarkTestCase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HmacBenchmarkTestCase.m; sourceTree = "<group>"; };
 		55D4410518E9CD9A006756C2 /* OCHasher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCHasher.h; sourceTree = "<group>"; };
 		55D4410618E9CD9A006756C2 /* OCHasher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCHasher.m; sourceTree = "<group>"; };
@@ -100,6 +116,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		554DAF4E18F5313900E26C63 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				554DAF4F18F5313900E26C63 /* BLCObject.h */,
+				554DAF5018F5313900E26C63 /* BLCObject.m */,
+				554DAF5118F5313900E26C63 /* BLCProduct.h */,
+				554DAF5218F5313900E26C63 /* BLCProduct.m */,
+				554DAF5318F5313900E26C63 /* product.json */,
+				554DAF5418F5313900E26C63 /* products.json */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		55D4410D18EAA5AB006756C2 /* js */ = {
 			isa = PBXGroup;
 			children = (
@@ -154,6 +183,7 @@
 				55D4410618E9CD9A006756C2 /* OCHasher.m */,
 				55D4410918E9CDAC006756C2 /* JSHasher.h */,
 				55D4410A18E9CDAC006756C2 /* JSHasher.m */,
+				554DAF4E18F5313900E26C63 /* Model */,
 				55D4410D18EAA5AB006756C2 /* js */,
 				55F1241B18E2BEF0007AB5F8 /* Images.xcassets */,
 				55F1241018E2BEEF007AB5F8 /* Supporting Files */,
@@ -180,6 +210,7 @@
 				55F1243818E2C22F007AB5F8 /* JSBenchmarkTestCase.m */,
 				55D4410318E9CD3E006756C2 /* HmacBenchmarkTestCase.m */,
 				55D4412018EAC729006756C2 /* Str2DataBenchmarkTestCase.m */,
+				554DAF5D18F5324000E26C63 /* JSONParsingBenchmarkTestCase.m */,
 				55F1242918E2BEF0007AB5F8 /* Supporting Files */,
 			);
 			path = iJSPlaygroundTests;
@@ -267,7 +298,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				554DAF5B18F5313900E26C63 /* products.json in Resources */,
 				55F1241418E2BEEF007AB5F8 /* InfoPlist.strings in Resources */,
+				554DAF5918F5313900E26C63 /* product.json in Resources */,
 				55F1241C18E2BEF0007AB5F8 /* Images.xcassets in Resources */,
 				55D4411518EAA627006756C2 /* package.json in Resources */,
 			);
@@ -280,7 +313,9 @@
 				55D4411618EAA627006756C2 /* package.json in Resources */,
 				55F1242D18E2BEF0007AB5F8 /* InfoPlist.strings in Resources */,
 				55D4411F18EAA919006756C2 /* bundle.js in Resources */,
+				554DAF5C18F5313900E26C63 /* products.json in Resources */,
 				55D4411E18EAA917006756C2 /* main.js in Resources */,
+				554DAF5A18F5313900E26C63 /* product.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -355,6 +390,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				55D4410718E9CD9A006756C2 /* OCHasher.m in Sources */,
+				554DAF5718F5313900E26C63 /* BLCProduct.m in Sources */,
+				554DAF5518F5313900E26C63 /* BLCObject.m in Sources */,
 				55D4410B18E9CDAC006756C2 /* JSHasher.m in Sources */,
 				55D4411918EAA697006756C2 /* main.js in Sources */,
 				55F1241A18E2BEF0007AB5F8 /* AppDelegate.m in Sources */,
@@ -373,6 +410,9 @@
 				55D4412318EACDAE006756C2 /* HmacHasherTest.m in Sources */,
 				55D4410C18E9CDAC006756C2 /* JSHasher.m in Sources */,
 				55D4410818E9CD9A006756C2 /* OCHasher.m in Sources */,
+				554DAF5618F5313900E26C63 /* BLCObject.m in Sources */,
+				554DAF5818F5313900E26C63 /* BLCProduct.m in Sources */,
+				554DAF5E18F5324000E26C63 /* JSONParsingBenchmarkTestCase.m in Sources */,
 				55F1242F18E2BEF0007AB5F8 /* iJSPlaygroundTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,13 +1,18 @@
 PODS:
   - BenchmarkTestCase (1.0)
   - JavaScriptBridge (0.3.1)
+  - Mantle (1.4.1):
+    - Mantle/extobjc
+  - Mantle/extobjc (1.4.1)
 
 DEPENDENCIES:
   - BenchmarkTestCase
   - JavaScriptBridge
+  - Mantle
 
 SPEC CHECKSUMS:
   BenchmarkTestCase: 3a8fe05a669b9cc91be46883c9efe57cd811e3be
   JavaScriptBridge: 49c65b6a6ffa7903e40d15083d9c74c515bd998f
+  Mantle: 0714cdb2b8559d9e6c2410d6a8529e3307bff189
 
-COCOAPODS: 0.29.0
+COCOAPODS: 0.31.1

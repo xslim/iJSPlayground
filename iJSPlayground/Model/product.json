@@ -1,0 +1,265 @@
+
+{
+    "id": 17873,
+    "name": "Amox mix/wok sauce zoetzuur",
+    "manufacturer": "HEINZ H J BV RETAIL",
+    "mediaUrl": "/asset/SKU14116_primary_161601.png",
+    "categoryId": "30891",
+    "defaultSku": {
+        "id": 135974,
+        "name": "Amox mix/wok sauce zoetzuur",
+        "retailPrice": 1.34,
+        "retailCurrency": "USD",
+        "salePrice": 1.34,
+        "saleCurrency": "USD"
+    },
+    "skus": [{
+        "id": 135974,
+        "name": "Amox mix/wok sauce zoetzuur",
+        "retailPrice": 1.34,
+        "retailCurrency": "USD",
+        "salePrice": 1.34,
+        "saleCurrency": "USD"
+    }],
+    "featured": false,
+    "onSale": false,
+    "extraInfo": {
+        "allergens": [{
+            "name": "sporen van sesam",
+            "value": ""
+        }, {
+            "name": "sporen van pinda",
+            "value": ""
+        }, {
+            "name": "sporen van pinda",
+            "value": ""
+        }, {
+            "name": "sporen van sesam",
+            "value": ""
+        }],
+        "nutrition": [{
+            "name": "zoutgehalte",
+            "value": "g"
+        }, {
+            "name": "meervoudig onverzadigd vet",
+            "value": "g"
+        }, {
+            "name": "enkelvoudig onverzadigdvet",
+            "value": "g"
+        }, {
+            "name": "natrium",
+            "value": "mg"
+        }, {
+            "name": "voedingsvezels",
+            "value": "g"
+        }, {
+            "name": "vetten waarvan verzadigd",
+            "value": "0g"
+        }, {
+            "name": "koolhydraten waarvan suikers",
+            "value": "47g"
+        }, {
+            "name": "vezels",
+            "value": "g"
+        }, {
+            "name": "zout ",
+            "value": "4.25g"
+        }, {
+            "name": "verzadigde vetzuren ",
+            "value": "g"
+        }, {
+            "name": "erytritol ",
+            "value": "g"
+        }, {
+            "name": "polyolen",
+            "value": "g"
+        }, {
+            "name": "suikers ",
+            "value": "g"
+        }, {
+            "name": "zetmeel",
+            "value": "g"
+        }, {
+            "name": "vetten",
+            "value": "0.2g"
+        }, {
+            "name": "eiwitten ",
+            "value": "0.5g"
+        }, {
+            "name": "koolhydraten",
+            "value": "54g"
+        }, {
+            "name": "energie in kcal",
+            "value": "220kc"
+        }, {
+            "name": "energie in kj",
+            "value": "940kj"
+        }, {
+            "name": "energie in kj",
+            "value": "940kj"
+        }, {
+            "name": "energie in kcal",
+            "value": "220kc"
+        }, {
+            "name": "koolhydraten",
+            "value": "54g"
+        }, {
+            "name": "eiwitten ",
+            "value": "0.5g"
+        }, {
+            "name": "vetten",
+            "value": "0.2g"
+        }, {
+            "name": "zetmeel",
+            "value": "g"
+        }, {
+            "name": "suikers ",
+            "value": "g"
+        }, {
+            "name": "polyolen",
+            "value": "g"
+        }, {
+            "name": "erytritol ",
+            "value": "g"
+        }, {
+            "name": "verzadigde vetzuren ",
+            "value": "g"
+        }, {
+            "name": "zout ",
+            "value": "4.25g"
+        }, {
+            "name": "vezels",
+            "value": "g"
+        }, {
+            "name": "koolhydraten waarvan suikers",
+            "value": "47g"
+        }, {
+            "name": "vetten waarvan verzadigd",
+            "value": "0g"
+        }, {
+            "name": "voedingsvezels",
+            "value": "g"
+        }, {
+            "name": "natrium",
+            "value": "mg"
+        }, {
+            "name": "enkelvoudig onverzadigdvet",
+            "value": "g"
+        }, {
+            "name": "meervoudig onverzadigd vet",
+            "value": "g"
+        }, {
+            "name": "zoutgehalte",
+            "value": "g"
+        }],
+        "ingredients": [{
+            "name": "rijstazijn",
+            "value": ""
+        }, {
+            "name": "ui",
+            "value": ""
+        }, {
+            "name": "water (nodig voor de bereiding)",
+            "value": ""
+        }, {
+            "name": "waarvan natrium",
+            "value": ""
+        }, {
+            "name": "zuurteregelaar: trinatriumcitraat",
+            "value": ""
+        }, {
+            "name": "tomatenketchup",
+            "value": ""
+        }, {
+            "name": "tapiocazetmeel",
+            "value": ""
+        }, {
+            "name": "paprika extract",
+            "value": ""
+        }, {
+            "name": "stabilisator: xanthaangom",
+            "value": ""
+        }, {
+            "name": "voedingszuur: azijnzuur",
+            "value": ""
+        }, {
+            "name": "geconcentreerde tomatenpuree",
+            "value": ""
+        }, {
+            "name": "gemodificeerd ma√Øs zetmeel",
+            "value": ""
+        }, {
+            "name": "suiker",
+            "value": ""
+        }, {
+            "name": "witte peper",
+            "value": ""
+        }, {
+            "name": "knoflook",
+            "value": ""
+        }, {
+            "name": "voedingszuur: citroenzuur",
+            "value": ""
+        }, {
+            "name": "aroma",
+            "value": ""
+        }, {
+            "name": "zout",
+            "value": ""
+        }, {
+            "name": "zout",
+            "value": ""
+        }, {
+            "name": "aroma",
+            "value": ""
+        }, {
+            "name": "voedingszuur: citroenzuur",
+            "value": ""
+        }, {
+            "name": "knoflook",
+            "value": ""
+        }, {
+            "name": "witte peper",
+            "value": ""
+        }, {
+            "name": "suiker",
+            "value": ""
+        }, {
+            "name": "gemodificeerd ma√Øs zetmeel",
+            "value": ""
+        }, {
+            "name": "geconcentreerde tomatenpuree",
+            "value": ""
+        }, {
+            "name": "voedingszuur: azijnzuur",
+            "value": ""
+        }, {
+            "name": "stabilisator: xanthaangom",
+            "value": ""
+        }, {
+            "name": "paprika extract",
+            "value": ""
+        }, {
+            "name": "tapiocazetmeel",
+            "value": ""
+        }, {
+            "name": "tomatenketchup",
+            "value": ""
+        }, {
+            "name": "zuurteregelaar: trinatriumcitraat",
+            "value": ""
+        }, {
+            "name": "waarvan natrium",
+            "value": ""
+        }, {
+            "name": "water (nodig voor de bereiding)",
+            "value": ""
+        }, {
+            "name": "ui",
+            "value": ""
+        }, {
+            "name": "rijstazijn",
+            "value": ""
+        }]
+    }
+}
